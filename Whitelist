@@ -3,8 +3,9 @@ local whitelist = {
     Usernames = {
         "f0rkfish",
         "orruunestad",
-		    "mogotuomoga",
-		    "cyrushu2",
+	"mogotuomoga",
+	"cyrushu2",
+	"koi_stell7r",
 
  
     },
